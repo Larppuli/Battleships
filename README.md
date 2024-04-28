@@ -3,7 +3,7 @@
 This is a simple implementation of the Battleships game in Haskell played in commandline. The game is played between two players, who take turns shooting at each other's ships on a game board.
 
 ## Getting Started
-To run the game, you'll need to have Haskell installed on your system fromhttps://www.haskell.org/downloads/
+To run the game, you'll need to have Haskell installed on your system from [Haskell website](https://www.haskell.org/downloads/)
 
 Download `.exe` file
 
