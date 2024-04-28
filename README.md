@@ -11,8 +11,12 @@ or
 
 Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/Larppuli/Battleships.git 
+git clone https://github.com/Larppuli/Battleships.git
+```
+```
 cd Battleships
+```
+```
 runghc "app/Main.hs"
 ```
 ## How to Play
